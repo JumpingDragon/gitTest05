@@ -1,1 +1,3 @@
-print("Dont' go insane")
+print("Don't go insane")
+
+print("Nerves")
