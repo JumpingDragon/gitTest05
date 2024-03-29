@@ -1,0 +1,1 @@
+print("Dont' go insane")
